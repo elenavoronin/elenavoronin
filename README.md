@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Lena
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjoykeAbyah&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavoronin&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **elenavoronin/elenavoronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
