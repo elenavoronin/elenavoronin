@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Lena
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evoronin)](https://github.com/evoronin/github-readme-stats)
+[![Lena's GitHub stats](https://github-readme-stats.vercel.app/api?username=evoronin)](https://github.com/evoronin/github-readme-stats)
 
 <!--
 **elenavoronin/elenavoronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
