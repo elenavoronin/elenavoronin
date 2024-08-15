@@ -1,5 +1,9 @@
 ## Hi there 👋
-I'm Lena
+I'm Lena, and I'm working towards my goal of becoming a Software Engineer. I'm a student at Codam, a coding school in Amsterdam, where the focus is to teach you how to learn and prepare you for the real life in tech.
+
+- 🌱 I’m currently learning c++ as part of the Codam Core Curriculum and studying python as a side project.
+
+Currently my git portfolio is comprised mostly of Codam projects. You can browse around and see what I've been up to in the past 2 years.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavoronin&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/elenavoronin/github-readme-stats)
 
