@@ -1,8 +1,8 @@
 ## Hi there 👋
 I'm Lena, and I'm working towards my goal of becoming a Software Engineer. I'm a student at Codam, a coding school in Amsterdam, where the focus is to teach you how to learn and prepare you for the real life in tech.
 
-- 🌱 I’m currently learning c++ as part of the Codam Core Curriculum and studying python as a side project.
-- 🔭 I would rate my C skills as Advanced and my C++ profecient.
+- 🌱 I’m currently doing my internship as Full-stack Developer, using JS/Angular, #C/.Net.
+- 🔭 In my free time I am learning python and working on a side project in Angular.
 
 Currently my git portfolio is comprised mostly of Codam projects. You can browse around and see what I've been up to in the past 2 years.
 
